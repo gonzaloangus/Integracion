@@ -5,7 +5,7 @@ pipeline {
         stage('Etapa 1: Preparación del Proyecto') {
             steps {
                 echo 'Iniciando la preparación del proyecto...'
-                git 'https://github.com/tu_usuario/tu_proyecto.git'
+                git ' https://github.com/gonzaloangus/Integracion.git'
             }
         }
 
