@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>resultado validación</title>
+<title>resultado validación jenkins</title>
 </head>
 <body>
    <h2><%= request.getAttribute("mensaje") %></h2>
